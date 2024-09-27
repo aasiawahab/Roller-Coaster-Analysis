@@ -148,6 +148,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+*.csv
+.DS_store
+
 # pytype static type analyzer
 .pytype/
 
